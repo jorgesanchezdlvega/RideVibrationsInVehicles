@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.autosave
+*.bak
+*.fig
+*.mdl.autosave
+*.slxc
+*.slx.autosave
+*.user.mat
+
+# Misc
+*.log
+*.tmp
+*.mat
